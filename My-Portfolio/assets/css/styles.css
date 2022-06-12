@@ -339,24 +339,30 @@ img {
   border-radius: .5rem;
 }
 
-/* ===== WORK =====*/
-.work__container {
+/* ===== CV =====*/
+.CV__container {
   row-gap: 2rem;
+  display: block;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.work__img {
+.CV__img {
   box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
   border-radius: .5rem;
   overflow: hidden;
+  
 }
 
-.work__img img {
+.CV__img img {
   transition: 1s;
+  
 }
 
-.work__img img:hover {
+/* .CV__img img:hover {
   transform: scale(1.1);
-}
+} */
 
 /* ===== CONTACT =====*/
 .contact__input {
