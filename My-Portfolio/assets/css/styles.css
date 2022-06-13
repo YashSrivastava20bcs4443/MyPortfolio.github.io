@@ -364,7 +364,7 @@ img {
   transform: scale(1.1);
 } */
 
-/* ===== CONTACT =====*/
+/* ===== CONTACT =====
 .contact__input {
   width: 100%;
   font-size: var(--normal-font-size);
@@ -383,7 +383,7 @@ img {
   font-size: var(--normal-font-size);
   cursor: pointer;
   margin-left: auto;
-}
+} */
 
 /* ===== FOOTER =====*/
 .footer {
